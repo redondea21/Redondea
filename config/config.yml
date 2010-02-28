@@ -1,0 +1,14 @@
+test:
+  layout: layout
+  site_url: redondea.local
+  site_email: admin@redondea.com
+  
+development:
+  layout: layout
+  site_url: redondea.local
+  site_email: admin@redondea.com
+  
+production:
+  layout: layout
+  site_url: redondea.com
+  site_email: admin@redondea.com
